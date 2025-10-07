@@ -13,7 +13,6 @@ body {
   text-align: center;
 }
 .kartu-profil img {
-  width: 270px;
-  height: 270px ;
+  width: 150px;
   border-radius: 50%;
 }
